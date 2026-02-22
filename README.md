@@ -1,7 +1,8 @@
  Image-Based-Product-Price-Recognition-System
 =================================================
+
 <img src="https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/eaa6f5913d0ef3fe13f9aa3bf3a988220d976586/OIP.webp" width="600"/>
-=======
+
 The Image-Based Product Price Recognition System is a smart application that automatically detects products and their prices directly from images using computer vision techniques. It is designed to assist in retail analysis, price monitoring, and smart shopping solutions.
 ========
 Features
@@ -36,3 +37,11 @@ Python & OpenCV for image processing and computer vision.
 Image segmentation and contour detection for product and price localization.
 
 Optional GUI or command-line interface for ease of use.
+
+Team members&&their roles:
+=========================
+Salma Salah >>>
+Mariam Abdel Fattah>>>
+Marina Shnouda >>>
+Shahd Mohamed Fouad>>>
+Kareem Hamada >>>
