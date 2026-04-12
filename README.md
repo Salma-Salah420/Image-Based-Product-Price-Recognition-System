@@ -67,7 +67,7 @@ RMSE (Training)	5.15 EGP	70.01 EGP	-64.86	>> XGBoost
 RMSE (Testing)	14.58 EGP	72.57 EGP	-57.99	>>XGBoost
 >>>
 ![loss LSTM](
-![loss lstm vs XGBoost](
+![loss lstm vs XGBoost](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/e976a69408dcae86d20b33f29a96bd011e4a59ac/outputs/LSTM%20actual%20vs.png)
 
 ---
 
