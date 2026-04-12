@@ -76,7 +76,8 @@ XGBoost Performance Summary:
 
 Team members&&their roles:
 =========================
-Salma Salah >>>
+Salma Salah >>> LSTM && XGBoost
+
 Mariam Abdel Fattah>>>
 Marina Shnouda >>>
 Shahd Mohamed Fouad>>>
