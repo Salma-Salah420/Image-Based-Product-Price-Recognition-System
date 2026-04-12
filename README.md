@@ -39,7 +39,7 @@ Image segmentation and contour detection for product and price localization.
 Optional GUI or command-line interface for ease of use.
 
 Models:
-1.XGBoost:
+1. XGBoost:
 ----------
  Current Model Results (XGBoost)
 
@@ -55,6 +55,19 @@ XGBoost Performance Summary:
 - Average error = 6.62 EGP → Very low
 - No significant overfitting
 - ![losscurve](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/9d6b26fb7246165c3bf7c1b591885f5cde6e96a1/outputs/loss%20curve.png)
+
+  2.LSTM model:
+  المقياس	XGBoost	LSTM	الفرق	الأفضل
+R² (Training)	0.9991	0.8296	+0.1695	>> XGBoost
+R² (Testing)	0.9936	0.8417	+0.1519	>>> XGBoost
+MAE (Training)	3.29 EGP	36.31 EGP	-33.02
+>>> XGBoost
+MAE (Testing)	6.62 EGP	38.80 EGP	-32.18	>> XGBoost
+RMSE (Training)	5.15 EGP	70.01 EGP	-64.86	>> XGBoost
+RMSE (Testing)	14.58 EGP	72.57 EGP	-57.99	>>XGBoost
+>>>
+![loss LSTM](
+![loss lstm vs XGBoost](
 
 ---
 
