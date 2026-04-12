@@ -54,7 +54,7 @@ XGBoost Performance Summary:
 - R² = 99.36% → Excellent fit
 - Average error = 6.62 EGP → Very low
 - No significant overfitting
-- 
+- ![losscurve](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/9d6b26fb7246165c3bf7c1b591885f5cde6e96a1/outputs/loss%20curve.png)
 
 ---
 
