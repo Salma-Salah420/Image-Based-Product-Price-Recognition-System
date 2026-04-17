@@ -56,20 +56,11 @@ XGBoost Performance Summary:
 - No significant overfitting
 - ![losscurve](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/9d6b26fb7246165c3bf7c1b591885f5cde6e96a1/outputs/loss%20curve.png)
 
-  2.LSTM model:
-  ---------------
-| Metric | XGBoost | LSTM | Difference | Winner |
-|--------|---------|------|------------|--------|
-| **R² Score (Training)** | 0.9991 | 0.8296 | +0.1695 | ✅ XGBoost |
-| **R² Score (Testing)** | 0.9936 | 0.8417 | +0.1519 | ✅ XGBoost |
-| **MAE (Training)** | 3.29 EGP | 36.31 EGP | -33.02 | ✅ XGBoost |
-| **MAE (Testing)** | 6.62 EGP | 38.80 EGP | -32.18 | ✅ XGBoost |
-| **RMSE (Training)** | 5.15 EGP | 70.01 EGP | -64.86 | ✅ XGBoost |
-| **RMSE (Testing)** | 14.58 EGP | 72.57 EGP | -57.99 | ✅ XGBoost |
+  2. Using BERT  Before Fine-Tuning :
+  ![loss](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/2088ba6e2ed7506ad5641b93a18fbe29d69dc4bf/images/download%20(1).png)
 
-![loss LSTM](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/7409888b1be45158ddff926438e6cb634b092546/outputs/LSTM%20loss%20curve.png)
-
-![loss lstm vs XGBoost](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/e976a69408dcae86d20b33f29a96bd011e4a59ac/outputs/LSTM%20actual%20vs.png)
+--our confusion Matrix after fine_tuning:
+![loss](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/2088ba6e2ed7506ad5641b93a18fbe29d69dc4bf/images/download%20(1).png)
 
 ---
 
