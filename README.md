@@ -3,10 +3,20 @@
 
 <img src="https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/4029ec771f66e8f3df6c37861d8ebc684d6ee519/images/OIP.webp" width="600"/>
 
-The Image-Based Product Price Recognition System is a smart application that automatically detects products and their prices directly from images using computer vision techniques. It is designed to assist in retail analysis, price monitoring, and smart shopping solutions.
+Problem Definition:
+========================
+Given a product name as a query, we need to retrieve the top‑K most similar products from a product catalog.
+Similarity is measured in the embedding space using cosine similarity.
 ========
-Features
-========
+
+Challenges:-
+==============
+
+Product names may be short, ambiguous, or contain typos.
+
+Different products may have similar names but different meanings (e.g., "iPhone 13" vs "iPhone 13 case").
+
+Need to choose an embedding model that captures semantic not just lexical similarity.
 
 Product Detection: Identify products in images using computer vision algorithms.
 
@@ -18,7 +28,7 @@ Data Export: Save extracted product names and prices in structured formats like 
 
 Cross-Platform: Works with images captured by mobile phones, cameras, or online sources.
 
-Use Cases
+Use Cases:
 =========
 
 Automated price comparison between different stores.
@@ -67,9 +77,12 @@ XGBoost Performance Summary:
 
 Team members&&their roles:
 =========================
-Salma Salah >>> LSTM && XGBoost
+Salma Salah >>> Bert 
 
-Mariam Abdel Fattah>>>
-Marina Shnouda >>>
-Shahd Mohamed Fouad>>>
-Kareem Hamada >>>
+Mariam Abdel Fattah>>> DistillBert 
+
+Marina Shnouda >>>  Effientnet 
+
+Kareem Hamada >>> Resnet 
+
+Shahd Mohamed>> Fusion Model&&Concatenate Results
