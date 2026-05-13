@@ -1,7 +1,7 @@
  Image-Based-Product-Price-Recognition-System
 =================================================
 
-<img src="https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/b09e509483de33b7e60ce7401c65755b1135eeb4/_%D8%B3%D9%88%D8%A8%D8%B1_%D9%85%D8%A7%D8%B1%D9%83%D8%AA_3.jpg" width="600"/>
+<img src="https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/4029ec771f66e8f3df6c37861d8ebc684d6ee519/images/OIP.webp" width="600"/>
 
 The Image-Based Product Price Recognition System is a smart application that automatically detects products and their prices directly from images using computer vision techniques. It is designed to assist in retail analysis, price monitoring, and smart shopping solutions.
 ========
