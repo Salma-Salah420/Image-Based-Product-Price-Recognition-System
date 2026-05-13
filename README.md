@@ -62,6 +62,10 @@ These results suggest that using ResNet50 as a frozen pretrained feature extract
 ## Final Decision
 
 Based on the experimental evaluation, the frozen ResNet50 backbone was selected for the final multimodal pipeline because it generated more discriminative image features and achieved the best overall class separation performance.
+_____________________________________________________________________________________________________
+Model 1: Sentence Transformer:
+=============================
+
 
 
 
