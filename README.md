@@ -28,51 +28,7 @@ Data Export: Save extracted product names and prices in structured formats like 
 
 Cross-Platform: Works with images captured by mobile phones, cameras, or online sources.
 
-Use Cases:
-=========
 
-Automated price comparison between different stores.
-
-Inventory management for retail businesses.
-
-Shopping assistance applications.
-
-Market research and analytics.
-
-Technologies
-============
-
-Python & OpenCV for image processing and computer vision.
-
-Image segmentation and contour detection for product and price localization.
-
-Optional GUI or command-line interface for ease of use.
-
-Models:
-1. XGBoost:
-----------
- Current Model Results (XGBoost)
-
-| Metric | Training | Testing |
-|--------|----------|---------|
-| **R² Score** | 0.9991 | 0.9936 |
-| **MAE (EGP)** | 3.29 | 6.62 |
-| **RMSE (EGP)** | 5.15 | 14.58 |
-| **MAPE (%)** | 3.54% | 6.15% |
-
-XGBoost Performance Summary:
-- R² = 99.36% → Excellent fit
-- Average error = 6.62 EGP → Very low
-- No significant overfitting
-- ![losscurve](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/9d6b26fb7246165c3bf7c1b591885f5cde6e96a1/outputs/loss%20curve.png)
-
-  2. Using BERT  Before Fine-Tuning :
-  ![loss](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/2088ba6e2ed7506ad5641b93a18fbe29d69dc4bf/images/download%20(1).png)
-
---our confusion Matrix after fine_tuning:
-![loss](https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/7e863b27eb8e705ccf606defb74dc5dd1bb81386/images/download%20(2).png)
-
----
 
 
 Team members&&their roles:
