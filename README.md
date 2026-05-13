@@ -65,7 +65,7 @@ Based on the experimental evaluation, the frozen ResNet50 backbone was selected 
 _____________________________________________________________________________________________________
 Model 1: Sentence Transformer:
 =============================
-![<img src="https://github.com/Salma-Salah420/Image-Based-Product-Price-Recognition-System/blob/23c71cd71a634950e19f23418894bf7777cf0607/images/Screenshot%202026-05-13%20100104.png"]
+
 
 
 
